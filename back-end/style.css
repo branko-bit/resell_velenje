@@ -1,0 +1,20 @@
+.ex-btn{
+    margin-top: 2%;
+}
+.submit-hover:hover{
+    background-color:rgb(237, 251, 255);
+}
+.submit-btn{
+    height: 5vh;
+}
+.submit-btn > input{
+    margin-left: 10%;
+    width: 80%;
+    height: 100%;
+    border-radius: 10px;
+    border: none;
+    font-size: 20px;
+}
+#zelena:active{
+    color: green !important;
+}
